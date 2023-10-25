@@ -6,3 +6,4 @@ Notes
 ## Data
 Notes
 
+[image](sagemaker-canvas-housing-price-prediction/Create New Model.PNG)
