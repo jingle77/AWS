@@ -16,7 +16,7 @@ Select your target column and build the model. In this case, our target is the m
 ![image](https://github.com/jingle77/AWS-Projects/blob/5575d6057e1333734df9533438aa9d80b64eac52/sagemaker-canvas-housing-price-prediction/Build%20Model.PNG)
 
 ## Evaluate Performance
-After a few minutes, the model has been trained and we can evaluate the performance.
+After a few minutes, the model has been trained and we can evaluate the performance. Let's take a look at RMSE
 ![image](https://github.com/jingle77/AWS-Projects/blob/main/sagemaker-canvas-housing-price-prediction/model%20performance.PNG)
 
 ## Predict on new data
@@ -24,5 +24,9 @@ After building a model, we can make predictions with new data. Note that you hav
 ![image](https://github.com/jingle77/AWS-Projects/blob/main/sagemaker-canvas-housing-price-prediction/Single%20Prediction.PNG)
 
 ## Create a new model recipe with log transformations
-Canvas allows the end user to make multiple versions of a model. We will make a new version that include log transformations on the numerical features that show a skew.
+Canvas allows the end user to make multiple versions of a model. We will make a new version that includes log transformations on the numerical features that show a skew.
 ![image](https://github.com/jingle77/AWS-Projects/blob/main/sagemaker-canvas-housing-price-prediction/Model%20Recipe.PNG)
+
+## Evaluate model version 2 via Advanced Metrics
+Instead of just comparing RMSE, we can use the "Advanced metrics" option to look at other measures of performance, such as R2 and MAE. 
+![image](https://github.com/jingle77/AWS-Projects/blob/ad353fb408954ccf8713d8b3d41e7e3565070ac2/sagemaker-canvas-housing-price-prediction/V2_Advanced_Metrics.PNG)
