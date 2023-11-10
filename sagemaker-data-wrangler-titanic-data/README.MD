@@ -6,11 +6,11 @@ Sagemaker Data Wrangler is a service that allows the end user to visualize, anal
 #### Tools Used: Sagemaker Data Wrangler
 
 ## Sagemaker Studio Homepage
-Select Data Wrangler on the left hand menu underneath the "Data" section
+Select Data Wrangler on the left menu underneath the "Data" section
 ![image](https://github.com/jingle77/AWS-Projects/blob/main/sagemaker-data-wrangler-titanic-data/Images/1_Studio_Home.PNG)
 
 ## Select sample dataset
-Choose the Titanic Sample Dataset by clicking on "sample"
+Choose the Titanic Sample Dataset by clicking on "use sample data" on the right side of the window
 ![image](https://github.com/jingle77/AWS-Projects/blob/main/sagemaker-data-wrangler-titanic-data/Images/2_Sample_Data.PNG)
 
 ## Data Quality Report
