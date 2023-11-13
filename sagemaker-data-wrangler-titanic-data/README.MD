@@ -31,3 +31,6 @@ Choose the Titanic Sample Dataset by clicking on "use sample data" on the right 
 
 #### Data Transformation: Changing the "Age" column from string to an integer
 ![image](https://github.com/jingle77/AWS-Projects/blob/main/sagemaker-data-wrangler-titanic-data/Images/4_Data_Transform_1.PNG)
+
+#### Data Transformation: Changing the "pclass" column from integer to a string
+![image](https://github.com/jingle77/AWS-Projects/blob/main/sagemaker-data-wrangler-titanic-data/Images/4_Data_Transform_2.PNG)
