@@ -26,3 +26,8 @@ Choose the Titanic Sample Dataset by clicking on "use sample data" on the right 
 
 #### Data Quality Report: Feature Summary relative to Target Variable
 ![image](https://github.com/jingle77/AWS-Projects/blob/main/sagemaker-data-wrangler-titanic-data/Images/3_Data_Quality_Report_4.PNG)
+
+## Data Transformation
+
+#### Data Transformation: Changing the "Age" column from string to an integer
+![image](https://github.com/jingle77/AWS-Projects/blob/main/sagemaker-data-wrangler-titanic-data/Images/4_Data_Transform_1.PNG)
