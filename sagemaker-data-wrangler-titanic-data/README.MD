@@ -37,3 +37,6 @@ Choose the Titanic Sample Dataset by clicking on "use sample data" on the right 
 
 #### Data Transformation: Dropping the name, ticket, and destination columns
 ![image](https://github.com/jingle77/AWS-Projects/blob/main/sagemaker-data-wrangler-titanic-data/Images/4_Data_Transform_3.PNG)
+
+## Export the transformed Dataset to S3
+![image](https://github.com/jingle77/AWS-Projects/blob/main/sagemaker-data-wrangler-titanic-data/Images/5_Data_Export.PNG)
